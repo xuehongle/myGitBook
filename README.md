@@ -1,6 +1,4 @@
-# My Awesome Book
+# IOS基础知识
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-
+记录ios的基础知识，其中借鉴了一些官方的文档以及在互联网上找到的一些内容。由于经验有限，难免存在诸多疏漏或者理解不到位的地方，还请斧正！
 
