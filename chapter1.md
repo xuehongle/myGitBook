@@ -1,3 +1,6 @@
-# First Chapter
+# 一.程序启动
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+程序启动相关
+
+从开机到app展示View给用户
+
