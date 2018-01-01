@@ -37,8 +37,8 @@
 * [七.零散知识点](4e03-ling-san-zhi-shi-dian.md)
   * [cocoa 和 cocoa touch的区别](4e03-ling-san-zhi-shi-dian/cocoa-he-cocoa-touch-de-qu-bie.md)
   * [runtime](4e03-ling-san-zhi-shi-dian/runtime.md)
-  * runtime详解KVO底层实现
-  * KVC键值查找原理
+  * [runtime详解KVO底层实现](4e03-ling-san-zhi-shi-dian/runtimexiang-jie-kvo-di-ceng-shi-xian.md)
+  * [KVC键值查找原理](4e03-ling-san-zhi-shi-dian/kvcjian-zhi-cha-zhao-yuan-li.md)
   * runloop
   * 静态库和动态库
 * [八.常用第三方](516b-chang-yong-di-san-fang.md)
