@@ -12,9 +12,9 @@
 * [二.网络和图片和多线程](4e8c-wang-luo.md)
   * [1.移动开发网络杂谈](4e8c-wang-luo/1yi-dong-kai-fa-wang-luo-za-tan.md)
   * [多线程-基础](4e8c-wang-luo/duo-xian-7a0b-ji-chu.md)
-  * 多线程-NSThread
-  * 多线程-GCD
-  * 多线程-NSOperation
+  * [多线程-NSThread](4e8c-wang-luo/duo-xian-7a0b-nsthread.md)
+  * [多线程-GCD](4e8c-wang-luo/duo-xian-7a0b-gcd.md)
+  * [多线程-NSOperation](4e8c-wang-luo/duo-xian-7a0b-nsoperation.md)
 * [三.数据存储](4e09-shu-ju-cun-chu.md)
   * [1.沙盒](4e09-shu-ju-cun-chu/1sha-he.md)
   * [2.方式](4e09-shu-ju-cun-chu/1sha-he/2plist.md)
@@ -24,19 +24,19 @@
   * 3.UIView继承结构图
   * [4.contentmode](56db-dong-hua/4contentmode.md)
   * [5.拉伸图片](56db-dong-hua/5la-shen-tu-pian.md)
-  * 6.UITableView-cell高度
-  * 7.UITableView的两种重用Cell方法的区别
-  * 8.UINavigationBar 使用总结
+  * [6.UITableView-cell高度](56db-dong-hua/6uitableview-cellgao-du.md)
+  * [7.UITableView的两种重用Cell方法的区别](56db-dong-hua/7uitableviewde-liang-zhong-zhong-yong-cell-fang-fa-de-qu-bie.md)
+  * [8.UINavigationBar 使用总结](56db-dong-hua/8uinavigationbar-shi-yong-zong-jie.md)
   * 9.scrollView自动布局,自适应contentSize \(xib,纯代码\)
 * [五.常用功能](4e94-chang-yong-gong-neng.md)
-  * 下拉刷新
-  * 二维码
+  * [下拉刷新](4e94-chang-yong-gong-neng/xia-la-shua-xin.md)
+  * [二维码](4e94-chang-yong-gong-neng/er-wei-ma.md)
   * iOS侧滑返回三种实现方式及优劣比较
   * Swift闭包传值
 * [六.设计模式](516d-she-ji-mo-shi.md)
 * [七.零散知识点](4e03-ling-san-zhi-shi-dian.md)
-  * cocoa 和 cocoa touch的区别
-  * runtime
+  * [cocoa 和 cocoa touch的区别](4e03-ling-san-zhi-shi-dian/cocoa-he-cocoa-touch-de-qu-bie.md)
+  * [runtime](4e03-ling-san-zhi-shi-dian/runtime.md)
   * runtime详解KVO底层实现
   * KVC键值查找原理
   * runloop
