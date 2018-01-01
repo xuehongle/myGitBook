@@ -1,16 +1,8 @@
-测试
+热爱app~~和game~~开发
 
-## 测试字体
+邮箱: ethan\_xue@foxmail.com
 
+github: [https://github.com/xuehongle](https://github.com/xuehongle)
 
-
-图片
-
-![](/assets/act_my_home_goods.png)
-
-> 水电费
-
-~~拉丝机福利卡就是~~
-
-[链接测试](/README.md)
+![](/assets/a79.jpg)
 
