@@ -10,7 +10,7 @@
   * [5.应用程序生命周期](chapter1/5ying-yong-cheng-xu-sheng-ming-zhou-qi.md)
   * [6.VC管理](chapter1/1/6kong-zhi-qi-sheng-ming-zhou-qi.md)
 * [二.网络和图片和多线程](4e8c-wang-luo.md)
-  * 1.移动开发网络杂谈
+  * [1.移动开发网络杂谈](4e8c-wang-luo/1yi-dong-kai-fa-wang-luo-za-tan.md)
   * 多线程-基础
   * 多线程-NSThread
   * 多线程-GCD
