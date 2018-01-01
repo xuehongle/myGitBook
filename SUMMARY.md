@@ -11,7 +11,7 @@
   * [6.VC管理](chapter1/1/6kong-zhi-qi-sheng-ming-zhou-qi.md)
 * [二.网络和图片和多线程](4e8c-wang-luo.md)
   * [1.移动开发网络杂谈](4e8c-wang-luo/1yi-dong-kai-fa-wang-luo-za-tan.md)
-  * 多线程-基础
+  * [多线程-基础](4e8c-wang-luo/duo-xian-7a0b-ji-chu.md)
   * 多线程-NSThread
   * 多线程-GCD
   * 多线程-NSOperation
@@ -22,8 +22,8 @@
   * [1.核心动画](56db-dong-hua/1he-xin-dong-hua.md)
   * [2.UIView动画和UIImage动画](56db-dong-hua/uiviewdong-huaheuiimage-dong-hua.md)
   * 3.UIView继承结构图
-  * 4.contentmode
-  * 5.拉伸图片
+  * [4.contentmode](56db-dong-hua/4contentmode.md)
+  * [5.拉伸图片](56db-dong-hua/5la-shen-tu-pian.md)
   * 6.UITableView-cell高度
   * 7.UITableView的两种重用Cell方法的区别
   * 8.UINavigationBar 使用总结
