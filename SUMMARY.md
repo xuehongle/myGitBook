@@ -21,7 +21,7 @@
 * [四.动画和UI](56db-dong-hua.md)
   * [1.核心动画](56db-dong-hua/1he-xin-dong-hua.md)
   * [2.UIView动画和UIImage动画](56db-dong-hua/uiviewdong-huaheuiimage-dong-hua.md)
-  * 3.UIView继承结构图
+  * [3.UIView继承结构图](56db-dong-hua/3uiviewji-cheng-jie-gou-tu.md)
   * [4.contentmode](56db-dong-hua/4contentmode.md)
   * [5.拉伸图片](56db-dong-hua/5la-shen-tu-pian.md)
   * [6.UITableView-cell高度](56db-dong-hua/6uitableview-cellgao-du.md)
