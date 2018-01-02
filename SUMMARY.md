@@ -33,6 +33,7 @@
   * [二维码](4e94-chang-yong-gong-neng/er-wei-ma.md)
   * [iOS侧滑返回三种实现方式及优劣比较](4e94-chang-yong-gong-neng/iosce-hua-fan-hui-san-zhong-shi-xian-fang-shi-ji-you-lie-bi-jiao.md)
   * [Swift闭包传值](4e94-chang-yong-gong-neng/swiftbi-bao-chuan-zhi.md)
+  * [版本检验更新和跳转](4e94-chang-yong-gong-neng/ban-ben-jian-yan-geng-xin-he-tiao-zhuan.md)
 * [六.设计模式](516d-she-ji-mo-shi.md)
 * [七.零散知识点](4e03-ling-san-zhi-shi-dian.md)
   * [cocoa 和 cocoa touch的区别](4e03-ling-san-zhi-shi-dian/cocoa-he-cocoa-touch-de-qu-bie.md)
