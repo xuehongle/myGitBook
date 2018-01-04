@@ -36,6 +36,7 @@
   * [版本检验更新和跳转](4e94-chang-yong-gong-neng/ban-ben-jian-yan-geng-xin-he-tiao-zhuan.md)
   * [引导页和广告](4e94-chang-yong-gong-neng/yin-dao-ye.md)
   * [新手引导蒙层](4e94-chang-yong-gong-neng/xin-shou-yin-dao-meng-ceng.md)
+  * [自定义View](4e94-chang-yong-gong-neng/zi-ding-yi-view.md)
 * [六.设计模式](516d-she-ji-mo-shi.md)
 * [七.零散知识点](4e03-ling-san-zhi-shi-dian.md)
   * [cocoa 和 cocoa touch的区别](4e03-ling-san-zhi-shi-dian/cocoa-he-cocoa-touch-de-qu-bie.md)
