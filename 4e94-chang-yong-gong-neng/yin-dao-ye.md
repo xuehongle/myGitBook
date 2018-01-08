@@ -26,3 +26,5 @@
 
 引导页一般是scrollview或collectionview配合pagecontrol
 
+但也有不再滑动而使用本地mp4的情况出现
+
