@@ -1,4 +1,21 @@
-http://www.jianshu.com/p/2d3c8e084205
+[http://www.jianshu.com/p/2d3c8e084205](http://www.jianshu.com/p/2d3c8e084205)
+
+为什么runloop要loop?
+
+* 使程序一直运行，并接受用户输入
+* 决定程序在何时应该处理哪些Event
+* 调用解耦\(Message Queue\)
+
+runloop In cocoa
+
+* NSTimer
+* UIEvent
+* AutoRelease
+* CADisplayLink
+* CATransition
+* CAAnimation
+* dispatch\__get \_main\_queue_
+* NSURLConnection, AFNetworking
 
 Runloop应用
 
@@ -12,15 +29,11 @@ PerformSelector
 
 自动释放池
 
-
-
 ![](/assets/1434508-98b48b3de9d15dff.png)
 
 图上的意思：一个线程里一个runloop, 有input源和Timer源，input源有performselector onthread，比方说，其他线程要让主线程做一些事，就是input源，那么Timer源呢，定时检查自己线程的事件，以主线程为例，定时检查是否有点击事件，是否有UI刷新事件。
 
 input源是其他线程的，Timer源是自己线程的
-
-
 
 以上博客新增一种情景
 
