@@ -46,5 +46,6 @@
   * [runloop](4e03-ling-san-zhi-shi-dian/runloop.md)
   * [静态库和动态库](4e03-ling-san-zhi-shi-dian/jing-tai-ku-he-dong-tai-ku.md)
 * [八.常用第三方](516b-chang-yong-di-san-fang.md)
-  * [Swift第三方](516b-chang-yong-di-san-fang/swiftdi-san-fang.md)
+  * [1.Swift第三方](516b-chang-yong-di-san-fang/swiftdi-san-fang.md)
+  * [2.OC第三方](516b-chang-yong-di-san-fang/2ocdi-san-fang.md)
 
