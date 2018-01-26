@@ -48,4 +48,6 @@
 * [八.常用第三方](516b-chang-yong-di-san-fang.md)
   * [1.Swift第三方](516b-chang-yong-di-san-fang/swiftdi-san-fang.md)
   * [2.OC第三方](516b-chang-yong-di-san-fang/2ocdi-san-fang.md)
+* [九.算法](4e5d-suan-fa.md)
+  * [1.排序](4e5d-suan-fa/1pai-xu.md)
 
